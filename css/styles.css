@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#ryan-do-cover {
+      background-image: url("http://imgur.com/m631zsp.jpg");
+}
+
+#ryan-do-card {
+    background-image: url("http://imgur.com/KhMsZ5Y.jpg");
+}
+
 #krystle-barnes-cover {
     background-image: url("http://i.imgur.com/DdV0Ekg.jpg");
 }
