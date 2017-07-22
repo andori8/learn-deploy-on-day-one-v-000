@@ -134,8 +134,14 @@ a:visited {
   height: 400px;
 }
 
+<<<<<<< HEAD
 #ryan-do-cover {
       background-image: url("http://imgur.com/m631zsp.jpg");
+=======
+
+#ryan-do-cover {
+    background-image: url("http://imgur.com/m631zsp.jpg");
+>>>>>>> ee7dd481b35da6c70bf50f3330e2290fea3fdec6
 }
 
 #ryan-do-card {
